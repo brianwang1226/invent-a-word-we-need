@@ -1,8 +1,7 @@
-// Invent a Word We Need: one invented English word together with a
-// one-line definition. The word has to name a real gap, something
-// everyone has felt but no word covers, and the definition has to be
-// crisp enough that a dictionary editor would want to keep it.
-// Ours is roomnesia: room plus amnesia, the doorway that eats the errand.
+// Invent a Word We Need: one invented English word plus a one-line definition.
+// Roomnesia names a real gap: the everyday moment of walking into a room
+// and forgetting why you went there, which no existing word covers.
+// It is built from "room" + "amnesia", so the meaning is clear on first read.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
